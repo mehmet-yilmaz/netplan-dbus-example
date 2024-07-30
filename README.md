@@ -4,7 +4,7 @@ This is an example application to explain how to communicate and set the network
 
 Please read the following article first:
 
-https://medium.com/
+https://mehmet-yilmaz.medium.com/manage-ubuntu-linux-networking-programmatically-with-netplan-and-d-bus-in-c-c-f608e4f351ed
 
 ### Dependencies
 
